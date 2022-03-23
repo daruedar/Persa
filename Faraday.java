@@ -1,8 +1,9 @@
 package modelo;
-	import javax.swing.JFrame;
-	import modelo.Logica;
-	import vista.Gui;
-	public class Faraday extends JFrame{
+import javax.swing.JFrame;
+import modelo.Logica;
+import vista.Gui;
+public class Faraday extends JFrame
+	{
 		Logica datos;
 		Gui interfaz;
 		public Faraday(){
